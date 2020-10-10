@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,WAAW,AAAC,CACR,OAAO,CAAE,IAAI,CACb,KAAK,CAAE,OAAO,CACd,MAAM,CAAE,iBAAiB,CACzB,aAAa,CAAE,GAAG,CAClB,MAAM,CAAE,MAAM,CACd,UAAU,CAAE,UAAU,CAAG,AAE7B,AAAA,SAAS,AAAC,CACN,OAAO,CAAE,IAAI,CACb,eAAe,CAAE,aAAa,CAAG",
+    "sources": [
+        "ActiveQuiz.sass"
+    ],
+    "names": [],
+    "file": "ActiveQuiz.css"
+}

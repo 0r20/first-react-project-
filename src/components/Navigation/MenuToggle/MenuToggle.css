@@ -1,0 +1,2 @@
+.MenuToggle{position:fixed;top:40px;left:40px;font-size:20px;cursor:pointer;color:#ffffff;z-index:100;-webkit-transition:opacity, left .22s ease-in;transition:opacity, left .22s ease-in}.MenuToggle:hover{opacity:.7}.open{left:320px}
+/*# sourceMappingURL=MenuToggle.css.map */

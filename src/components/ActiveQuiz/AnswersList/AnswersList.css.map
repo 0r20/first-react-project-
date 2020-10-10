@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,YAAY,AAAC,CACT,UAAU,CAAE,IAAI,CAChB,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CAAG",
+    "sources": [
+        "AnswersList.sass"
+    ],
+    "names": [],
+    "file": "AnswersList.css"
+}
